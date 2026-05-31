@@ -2,13 +2,14 @@
 
 ### 🚀 Aspiring MERN Stack Developer
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 * 💻 Passionate about Full Stack Web Development
 * 🌱 Currently learning Advanced React.js, Node.js & MongoDB
 * 🚀 Building real-world MERN Stack projects
 * 📍 Chennai, India
 * 🎯 Open to Internship & Entry-Level Opportunities
+* ⚡ Fun fact: I love coding and anime
 
 <br>
 
@@ -36,23 +37,18 @@
 
 ### 🌦️ Weather App
 
-* Real-time weather updates using API integration
+* Real-time weather updates using weather APIs
 * Responsive UI built with React.js
 
 ### 🌸 Perfumy
 
 * Modern perfume showcase website
-* Built using React.js
+* Built using React.js and CSS
 
 ### ✅ Todo Application
 
-* Task management application with CRUD functionality
-
-<br>
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rv-abishek\&theme=tokyo-night)](https://github.com/rv-abishek)
+* Task management application
+* CRUD functionality using JavaScript
 
 <br>
 
@@ -61,6 +57,18 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
 </p>
+
+<br>
+
+## 📈 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rv-abishek\&theme=github-dark)](https://github.com/rv-abishek)
+
+<br>
+
+## 📊 Profile Views
+
+![](https://komarev.com/ghpvc/?username=rv-abishek\&color=blue)
 
 <br>
 
