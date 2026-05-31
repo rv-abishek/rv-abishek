@@ -52,7 +52,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rv-abishek&theme=tokyonight)
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rv-abishek&theme=github-dark)](https://github.com/rv-abishek)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rv-abishek\&theme=tokyonight)
 
 <br>
