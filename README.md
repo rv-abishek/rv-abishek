@@ -59,11 +59,12 @@
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/postman-api.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
+</p>
+
 
 ---
 
