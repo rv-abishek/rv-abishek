@@ -1,153 +1,79 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Tech+Abi;Aspiring+MERN+Stack+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+There+%F0%9F%91%8B+It's+Me+Tech+Abi;MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Open+to+Work+%F0%9F%92%BC" />
 </p>
 
+<h1 align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350">
+</h1>
 
-### 🚀 Aspiring MERN Stack Developer
+<h3 align="center">💙 Welcome to my GitHub Profile 💜</h3>
 
-<img align="right" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+---
 
+## 👨‍💻 About Me
+
+* 🚀 Aspiring MERN Stack Developer
 * 💻 Passionate about Full Stack Web Development
-* 🌱 Currently learning Advanced React.js, Node.js & MongoDB
-* 🚀 Building real-world MERN Stack projects
+* 🌱 Learning React.js, Node.js & MongoDB
 * 📍 Chennai, India
 * 🎯 Open to Internship & Entry-Level Opportunities
-* ⚡ Fun fact: I love coding and anime
 
-<br>
+---
 
 ## 🌐 Connect With Me
 
+<p align="left">
 <a href="https://www.linkedin.com/in/rvabishek/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rv-abishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-<br>
+---
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,vercel" />
 </p>
 
-<br>
+---
 
 ## 🚀 Featured Projects
 
 ### 🌦️ Weather App
 
-* Real-time weather updates using weather APIs
-* Responsive UI built with React.js
+Real-time weather updates using API integration.
 
 ### 🌸 Perfumy
 
-* Modern perfume showcase website
-* Built using React.js and CSS
+Modern perfume showcase website built with React.js.
 
-### ✅ Todo Application
+### ✅ Todo App
 
-* Task management application
-* CRUD functionality using JavaScript
+Task management application with CRUD functionality.
 
-<br>
+---
 
 ## 🛠️ Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
 </p>
 
-<br>
+---
 
 ## 📈 GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rv-abishek\&theme=github-dark)](https://github.com/rv-abishek)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rv-abishek\&theme=tokyo-night)](https://github.com/rv-abishek)
 
-<br>
+---
 
-## 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=rv-abishek\&color=blue)
-
-<br>
-
-### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
-
-
-### 🚀 Aspiring MERN Stack Developer
-
-<img align="right" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-* 💻 Passionate about Full Stack Web Development
-* 🌱 Currently learning Advanced React.js, Node.js & MongoDB
-* 🚀 Building real-world MERN Stack projects
-* 📍 Chennai, India
-* 🎯 Open to Internship & Entry-Level Opportunities
-* ⚡ Fun fact: I love coding and anime
-
-<br>
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/rvabishek/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/rv-abishek">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,vercel" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rv-abishek&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<br>
-
-## 🚀 Featured Projects
-
-### 🌦️ Weather App
-
-* Real-time weather updates using weather APIs
-* Responsive UI built with React.js
-
-### 🌸 Perfumy
-
-* Modern perfume showcase website
-* Built using React.js and CSS
-
-### ✅ Todo Application
-
-* Task management application
-* CRUD functionality using JavaScript
-
-<br>
-
-## 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
-</p>
-
-<br>
-
-## 📈 GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rv-abishek\&theme=github-dark)](https://github.com/rv-abishek)
-
-<br>
-
-## 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=rv-abishek\&color=blue)
-
-<br>
-
-### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+<h3 align="center">⭐ Keep Learning • Keep Building • Keep Growing ⭐</h3>
