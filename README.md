@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rv-abishek)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rv-abishek)](https://github-readme-stats.vercel.app/api?username=rv-abishek&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rv-abishek\&theme=tokyonight)
 
 <br>
