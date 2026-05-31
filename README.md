@@ -44,17 +44,10 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" /><br>
-  <img src="https://skillicons.dev/icons?i=css" /><br>
-  <img src="https://skillicons.dev/icons?i=javascript" /><br>
-  <img src="https://skillicons.dev/icons?i=react" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=express" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=git" /><br>
-  <img src="https://skillicons.dev/icons?i=github" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel" />
 </p>
 
 ---
