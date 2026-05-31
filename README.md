@@ -44,15 +44,18 @@
 
 ## 💻 Tech Stack
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/express-js.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" /><br>
+  <img src="https://skillicons.dev/icons?i=css" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript" /><br>
+  <img src="https://skillicons.dev/icons?i=react" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=express" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=git" /><br>
+  <img src="https://skillicons.dev/icons?i=github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
 ---
 
